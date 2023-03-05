@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/05/02 08:22:45.000.012,=C:\Users\Anderson\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2022/06/14 11:41:54.000.376,=C:\Users\Anderson\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2022/06/14 11:43:05.000.938,D:\Anderson\BandaControl\Principal.dfm=C:\Users\Anderson\Documents\Embarcadero\Studio\Projects\Unit6.dfm</Transaction>
+    <Transaction>2022/06/14 11:43:05.000.938,D:\Anderson\BandaControl\Principal.pas=C:\Users\Anderson\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2022/06/14 11:43:19.000.190,D:\Anderson\BandaControl\Cefetianos.dproj=C:\Users\Anderson\Documents\Embarcadero\Studio\Projects\Project6.dproj</Transaction>
+    <Transaction>2022/07/15 17:15:40.000.896,=D:\Anderson\BandaControl\Dados.pas</Transaction>
+    <Transaction>2022/09/13 10:19:45.000.224,=D:\Anderson\BandaControl\Unit1.pas</Transaction>
+    <Transaction>2022/09/13 10:20:19.000.794,D:\Anderson\BandaControl\Email.pas=D:\Anderson\BandaControl\Unit1.pas</Transaction>
+    <Transaction>2022/09/13 10:20:19.000.794,D:\Anderson\BandaControl\Email.dfm=D:\Anderson\BandaControl\Unit1.dfm</Transaction>
+    <Transaction>2022/09/13 11:06:05.000.210,=D:\Anderson\BandaControl\Unit1.pas</Transaction>
+    <Transaction>2022/09/13 11:06:14.000.110,D:\Anderson\BandaControl\Pix.pas=D:\Anderson\BandaControl\Unit1.pas</Transaction>
+    <Transaction>2022/09/13 11:06:14.000.110,D:\Anderson\BandaControl\Pix.dfm=D:\Anderson\BandaControl\Unit1.dfm</Transaction>
+    <Transaction>2022/09/13 11:20:58.000.314,=D:\Anderson\BandaControl\QRCodeAPIGoogle.pas</Transaction>
+  </Transactions>
+</BorlandProject>
